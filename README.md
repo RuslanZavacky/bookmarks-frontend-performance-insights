@@ -28,3 +28,7 @@ https://github.com/filamentgroup/grunt-criticalcss
 http://habrahabr.ru/company/mailru/blog/236021/  
 https://github.com/imagemin/imagemin-app  
 http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/  
+
+Mobile Web App Checklist
+-----------------------------
+http://www.luster.io/blog/9-29-14-mobile-web-checklist.html
